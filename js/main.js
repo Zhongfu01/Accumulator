@@ -22,6 +22,7 @@ function accumulate(input){
 		return "";
 	return sum;
 
+
 	//  child functions
 	function summary(){
 		sum += cur;
